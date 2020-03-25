@@ -45,6 +45,8 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="使用同步製作Pizza.cs" />
+    <Compile Include="使用非同步製作Pizza.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
